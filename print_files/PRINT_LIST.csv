@@ -1,0 +1,28 @@
+#,File,Qty,Group,Notes,Folder
+1,01_x_end_motor_x1.stl,1,X axis,MK2 + 4th motor screw. Print standing as given; no supports (wall under motor plate),1_order_now_machine_parts
+2,02_x_end_idler_x1.stl,1,X axis,Print standing as given,1_order_now_machine_parts
+3,03_x_carriage_x1.stl,1,X axis,Check supports in slicer,1_order_now_machine_parts
+4,04_extruder_body_x1.stl,1,Extruder,Motor face down; check supports,1_order_now_machine_parts
+5,05_extruder_cover_x1.stl,1,Extruder,,1_order_now_machine_parts
+6,06_extruder_idler_x1.stl,1,Extruder,,1_order_now_machine_parts
+7,07_fan_nozzle_x1.stl,1,Extruder,For a 5015 blower fan,1_order_now_machine_parts
+8,08_z_bottom_left_x1.stl,1,Z axis,Motor plate down,1_order_now_machine_parts
+9,09_z_bottom_right_x1.stl,1,Z axis,Motor plate down,1_order_now_machine_parts
+10,10_z_top_x2.stl,2,Z axis,Same part both sides,1_order_now_machine_parts
+11,11_y_motor_mount_mk2_x1.stl,1,Y axis,"New part: 4 motor screws, 4 x M5 to rear bar",1_order_now_machine_parts
+12,12_y_idler_holder_x1.stl,1,Y axis,,1_order_now_machine_parts
+13,13_y_belt_holder_x1.stl,1,Y axis,,1_order_now_machine_parts
+14,14_y_bearing_holder_x3.stl,3,Y axis,,1_order_now_machine_parts
+15,15_y_rod_clamp_x4.stl,4,Y axis,,1_order_now_machine_parts
+16,16_bed_spacer_x4.stl,4,Bed,26 mm spacer under each bed spring (for the 3 mm Y carriage plate),1_order_now_machine_parts
+17,17_frame_foot_x4.stl,4,Frame,,2_optional_frame_connectors
+18,18_frame_base_corner_x4.stl,4,Frame,,2_optional_frame_connectors
+19,19_frame_top_gusset_x2.stl,2,Frame,Flat plate; flip one for the other side,2_optional_frame_connectors
+20,20_frame_top_corner_left_x1.stl,1,Frame,,2_optional_frame_connectors
+21,21_frame_top_corner_right_x1.stl,1,Frame,,2_optional_frame_connectors
+22,22_frame_z_adapter_left_x1.stl,1,Frame,,2_optional_frame_connectors
+23,23_frame_z_adapter_right_x1.stl,1,Frame,,2_optional_frame_connectors
+24,24_brace_gusset_top_x2.stl,2,Frame,"Diagonal brace, top end",1_order_now_machine_parts
+25,25_brace_gusset_bottom_x2.stl,2,Frame,"Diagonal brace, bottom end",1_order_now_machine_parts
+26,26_endstop_holder_x2.stl,2,Electronics,Y and Z endstop boards,1_order_now_machine_parts
+27,27_y_carriage_printed_x1.stl,1,Bed,Optional: printed Y carriage instead of the laser-cut 3 mm aluminium plate. 220 x 220 mm; needs a printer bed of at least 230 x 230 mm,3_optional_y_carriage_printed

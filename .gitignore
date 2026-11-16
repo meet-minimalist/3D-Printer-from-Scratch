@@ -218,3 +218,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------------------------------------------------------------
+# 3D printer project: local-only folders (never pushed)
+# ---------------------------------------------------------------
+# misc: quotes, vendor PDFs, photos. not_needed: superseded files.
+# third_party: GrabCAD downloads (licence unknown), see README.
+misc/
+not_needed/
+third_party/
+
+# Meshes derived from the third-party MK2-2020 model (licence unknown)
+cad/stl_mk2/
+cad/mk2/x_end_motor_4screw.stl
+cad/stl/y_carriage_printed.stl
+print_files/laser_cut/
+print_files/**/*.stl
+print_files/**/*.gcode
+# ...except our own designs
+!print_files/1_order_now_machine_parts/11_y_motor_mount_mk2_x1.stl
+!print_files/1_order_now_machine_parts/16_bed_spacer_x4.stl
+!print_files/1_order_now_machine_parts/24_brace_gusset_top_x2.stl
+!print_files/1_order_now_machine_parts/25_brace_gusset_bottom_x2.stl
+!print_files/1_order_now_machine_parts/26_endstop_holder_x2.stl
+
+# OpenSCAD / Office temporary files
+*.echo
+~$*
